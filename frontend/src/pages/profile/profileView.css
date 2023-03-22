@@ -1,0 +1,307 @@
+.special {
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #0052cc;
+
+}
+
+.special:focus, .special.active {
+    background: -webkit-linear-gradient(140deg, #E0E0E0 25%, #E0E0E0 100%);
+    background: -moz-linear-gradient(140deg, #E0E0E0 25%, #E0E0E0 100%);
+    background: -ms-linear-gradient(140deg, #E0E0E0 25%, #E0E0E0 100%);
+    background: -o-linear-gradient(140deg, #E0E0E0 25%, #E0E0E0 100%);
+    background: linear-gradient(140deg, #E0E0E0 25%, #E0E0E0 100%);
+    color: #0065ff !important;
+
+}
+.projectsHeader{
+    /* font-family: Poppins; */
+    font-size: 1.14286em;
+    font-style: inherit;
+    line-height: 1.25;
+    color: #172B4D;
+    font-weight: 600;
+    letter-spacing: -0.006em;
+    margin-bottom: 22px;
+}
+/* .edit-profile-form-header{
+
+} */
+.main-holder-projects{
+    /* border:1px solid #BD9EFB; */
+    background-color: #f4f5f7;
+    padding: 20px;
+    border-radius:10px;
+    box-shadow: 5px 10px 20px rgba(189, 158, 251, 0.1);
+    margin-bottom: 20px;
+}
+.project-card1:hover, .project-card1.active {
+    box-shadow: rgb(9 30 66 / 25%) 0px 4px 8px -2px, rgb(9 30 66 / 31%) 0px 0px 1px;
+    cursor: pointer;
+}
+.tiny-buttons1{
+    -webkit-box-align: baseline;
+    align-items: baseline;
+    border-width: 0px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    height: 32px;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height:2.28571em;
+    background-color: #0052CC;
+    color: white;
+}
+.tiny-buttons1:hover{
+    background-color: #0065ff;
+    color: white;
+}
+.card-view-profile {
+    border-radius: 3px;
+    box-shadow: rgb(9 30 66 / 25%) 0px 1px 1px, rgb(9 30 66 / 13%) 0px 0px 1px 1px;
+    border: none !important;
+}
+.card-details1{
+    font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    color:rgb(23,43,77);
+    font-weight: 400;
+text-transform: capitalize;
+mix-blend-mode: normal;
+}
+.p-header-3{
+    font-weight: 500 !important;
+    color: rgb(107, 119, 140);
+}
+.button-holder3{
+    text-align: right;
+}
+.edit-profile {
+    margin-left: auto !important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 2px 10px;
+    margin-top: 10px;
+    border-color: transparent;
+    margin-top: 10px;
+    display: block;
+    color: #FAFBFC;
+    background-color: #0052CC;
+}
+.all-da-workers1{
+    margin-top: 22px;
+}
+.worker-image{
+    margin-right: 8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.tooltiptext1 {
+    /* visibility: hidden;
+    width: 100px; */
+    background-color: white !important;
+    color: #444444 !important;
+    text-align: center;
+    border: 1px solid #2998F9;
+    border-radius: 8px;
+    padding: 2px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* Position the tooltip */
+    /* position: absolute;
+    z-index: 1;
+    bottom: 120%;
+    left: 50%;
+    cursor: pointer;
+    margin-left: -60px; */
+}
+.package-button {
+    /* font-family: Poppins; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    margin-top: 10px;
+    position: relative;
+    background-color: #0052CC;
+    color: #FAFBFC;
+}
+.edit-profile:hover {
+    background-color: #0065ff;
+    color: #FFFFFF;
+}
+
+.update-img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #FAFBFC;
+}
+
+.user-profile-pic-div {
+    /* background-color: #5e6969;
+    background-image: linear-gradient(196deg, #5e6969 0%, #cbd7d7 100%); */
+    background-image: url('../../assets/bgs/profile-card-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    background-size: cover;
+    padding-bottom: 12px;
+    border: 1px solid #FAFBFC;
+
+
+}
+
+.change-img-btn {
+    font-size: 12px;
+    line-height: 16px;
+    background-color: #0055ff;
+    font-weight: 600;
+    color: #FAFBFC;
+    height: 34px;
+}
+
+.change-img-btn:hover {
+    color: #FFFFFF;
+    background-color: #1976D2;
+
+}
+
+.profile-details-points {
+    font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    color: rgb(23, 43, 77);
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    /* display: flex; */
+}
+
+.profile-details-points-email {
+    font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    color: rgb(23, 43, 77);
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.info-header-1 {
+    font-weight: 500;
+    color: rgb(107, 119, 140);
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.custom-label-5 {
+    color: rgb(23, 43, 77);
+    font-size: 14px;
+    line-height: 1.42857;
+    font-weight: 600;
+}
+
+.custom-forminput-6 {
+    font-size: 14px !important;
+    line-height: 1.42857;
+    color: rgb(133, 133, 133);
+    height: 38px;
+
+
+}
+
+.custom-forminput-6:active, .custom-forminput-6:focus {
+    border: 2px solid #0065ff !important;
+    box-shadow: none !important;
+    font-size: 14px !important;
+    line-height: 1.42857;
+}
+
+.profile-form-btn {
+    -webkit-box-align: baseline;
+    align-items: baseline;
+    border-width: 0px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    height: 32px;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 2.28571em;
+}
+
+.update-profile {
+    background-color: #0052CC;
+    color: white;
+}
+
+.update-profile:hover {
+    background-color: #0065ff;
+    color: white;
+}
+
+.cancel-update {
+    line-height: 2.28571em;
+    color: rgb(66, 82, 110) !important;
+
+}
+
+.cancel-update:hover {
+    background-color: rgba(9, 30, 66, 0.04);
+    color: #2b2b2b;
+}
+
+.profile-page-header {
+    font-size: 1.71429em;
+    font-style: inherit;
+    color: #5e6c84 !important;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    margin-top: 15px;
+    line-height: 32px;
+    outline: none;
+}
+
+.password-container {
+    position: relative;
+}
+
+.pwd-container-img {
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    right: 8px;
+    top: 8px;
+}
+
+/****_____MEDIA QUERY________***/
+@media all and (min-width:300px) and (max-width:600px) {
+    .update-img {
+        height: 70px;
+        width: 70px;
+    }
+}
+
+@media all and (min-width:992px) {
+    .project-form-button-holders {
+        text-align: center !important;
+    }
+
+    .cancel-update {
+        margin-left: 10px;
+    }
+}

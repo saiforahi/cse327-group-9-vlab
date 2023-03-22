@@ -1,0 +1,56 @@
+/*____SUBSCRIBE TO NEWSLETTER____*/
+*{
+    font-family: "Poppins";
+}
+.custom-color-com-2{
+    
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.com-subscription-holder{
+    border-radius: 20px;
+    background-image: url("../../assets/bgs/trial.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    padding: 220px 120px;
+
+}
+.com-subscribe-form{
+    display: flex;
+    justify-content: center;
+    
+}
+.subs-com-form{
+
+}
+.search-box{
+    width: 600px;
+}
+.subs-tiny-header-1{
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+letter-spacing: 0.01em;
+color: #EA7B43;
+}
+.subs-header-1{
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 90px;
+letter-spacing: 0.01em;
+color: #FFFFFF;
+}
+.subs-tiny-desc-1{
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 42px;
+letter-spacing: 0.01em;
+color: #FFFFFF;
+margin-top: 35px;
+margin-bottom: 40px;
+}

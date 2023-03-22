@@ -1,0 +1,10 @@
+.back-button:focus,.back-button:hover,.back-button:active{
+    background: transparent !important;
+    box-shadow: none !important;
+     border-color: transparent !important;
+     outline:none !important;
+     color: #0065ff;
+}
+.back-button{
+    color: #0052cc;
+}

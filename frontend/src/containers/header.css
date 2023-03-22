@@ -1,0 +1,14 @@
+.badge-pill {
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+}
+.cart-number {
+  margin-top: -18px;
+}
+.nav-box-text {
+  font-size: 14px;
+}
+.cart-count {
+  font-size: 11px;
+}

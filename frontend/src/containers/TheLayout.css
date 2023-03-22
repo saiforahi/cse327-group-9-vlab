@@ -1,0 +1,29 @@
+.custom-color-c-app{
+    background-color: #FFFFFF ;
+}
+.u-name{
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.drop-text{
+    font-size: 14px;
+}
+.custom-router{
+    font-size: 14px;
+    line-height: 20px;
+}
+.c-avatar-img{
+    object-fit: cover;
+    height: 40px;
+    width: 40px;
+}
+.c-avatar{
+    border-radius: 50%;
+}
+.copyright-text{
+    font-size: 12px;
+    text-align: center;
+    color: #0065ff;
+}

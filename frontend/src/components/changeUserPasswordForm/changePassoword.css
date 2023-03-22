@@ -1,0 +1,19 @@
+.card-change-password{
+    padding: 32px 40px;
+    background: rgb(255, 255, 255);
+    border-radius: 3px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 0px 10px;
+    box-sizing: border-box;
+    color: rgb(94, 108, 132);
+    border-color: transparent;
+}
+.password-container{
+    position:relative;
+  }
+  .pwd-container-img{
+    cursor: pointer;
+  position: absolute;
+  width: 20px;
+  right: 8px;
+  top: 8px;
+  }
